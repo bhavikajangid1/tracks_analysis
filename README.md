@@ -1,3 +1,3 @@
 # tracks_analysis
 
-Analysing the tracks of spotify based on its time duration, genre, number of songs over the years and other audio features using python libraries like numpy pandas, matplotlib, etc. 
+Extracted the data using spotify's api. Then analysed the data using various python libraries including numpy, pandas, matplotlib and seaborn on the basis of geners, duration of songs, number of songs produced over the years etc. 
